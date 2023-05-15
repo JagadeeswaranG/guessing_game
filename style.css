@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(161, 214, 161);
+    color: black;
+}
+
+#title{
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    color: red;
+}
+
+#player{
+    color: blue;    
+}
+
+p{
+    font-size: medium;
+    font-weight: bold;
+}
+
+#result{
+    margin-top: 5px;
+    font-size: medium;
+}
